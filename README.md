@@ -10,11 +10,11 @@
 
 ### 👋 Hey, I'm Tinus
 
-- 🎓 IT & Digitalization student at **HiMolde** (2023–2026)  
-- 💻 Focusing on **programming, web development and databases**  
-- 🧩 Background from **ICT service studies** and an IT support internship at **Ekornes**  
-- 🧪 Slowly exploring **TryHackMe** and **Hack The Box** to get more hands-on practice  
-- 🎯 Goal: build a solid developer foundation and later move more into infrastructure / security
+- IT & digitalization student @ HiMolde (2023–2026)  
+- Focused on programming, web development and databases  
+- Background from ICT service studies + IT support internship at Ekornes  
+- Using TryHackMe and Hack The Box to learn the security basics  
+- Long-term: strong developer fundamentals → move more into infrastructure / security
 
 ---
 
@@ -58,20 +58,20 @@
 
 ### 📚 Currently learning
 
-- More **Python** and scripting  
-- **Web dev** (HTML/CSS/JS)  
-- **SQL** and data modelling  
-- Intro networking + basic security labs  
+- Deeper Python and scripting  
+- Web dev fundamentals (HTML / CSS / JavaScript)  
+- SQL and data modelling  
+- Basic networking + intro security labs
 
 ---
 
-### 🧪 Projects (coming up)
+### 🛠 Projects (coming up)
 
 I'll use this GitHub to collect:
 
-- university exercises  
-- small scripts and experiments  
-- code from labs and courses  
+- University exercises  
+- Small scripts and experiments  
+- Code from labs and courses
 
 ---
 
