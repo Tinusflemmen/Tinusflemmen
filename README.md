@@ -27,7 +27,7 @@
   <a href="mailto:tinus.flemmen@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://tryhackme.com/p/TinusFlemmen](https://tryhackme.com/p/Tinusflemmen](https://tryhackme.com/p/Tinusflemmen)">
+  <a href="https://tryhackme.com/p/Tinusflemmen">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </p>
