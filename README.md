@@ -8,13 +8,13 @@
 
 ---
 
-### 👋 Hey, I'm Tinus
+### 🔥 Hey, I'm Tinus
 
 - IT & digitalization student @ HiMolde (2023–2026)  
 - Focused on programming, web development and databases  
 - Background from ICT service studies + IT support internship at Ekornes  
 - Using TryHackMe and Hack The Box to learn the security basics  
-- Long-term: strong developer fundamentals → move more into infrastructure / security
+- Long-term goal: build strong developer fundamentals and later move more into infrastructure / security
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 🧰 Tech stack (basics)
+### 💻 Tech stack (basics)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
