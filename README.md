@@ -1,82 +1,24 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1f2937&height=80&section=header&text=Tinus%20Flemmen%20Aurdal&fontSize=28&fontColor=ffffff&fontAlignY=55" />
-</p>
+# Tinus Flemmen Aurdal
 
-<p align="center">
-  <b>build. learn. improve. repeat.</b>
-</p>
+IT and Digitalization bachelor candidate with 165/180 ECTS completed at Molde University College. I plan to complete the remaining 15 ECTS in 2027.
 
----
+I am building a backend-first software-development profile focused on C#, .NET, SQL, web APIs and automated testing.
 
-### 🔥 Hey, I'm Tinus
+## Current focus
 
-- IT & digitalization student @ HiMolde (2023–2026)  
-- Focused on programming, web development and databases  
-- Background from ICT service studies + IT support internship at Ekornes  
-- Using TryHackMe and Hack The Box to learn the security basics  
-- Long-term goal: build strong developer fundamentals and later move more into infrastructure / security
+- Git and GitHub workflows
+- C# and .NET fundamentals
+- SQL, PostgreSQL and data modelling
+- HTTP, REST and ASP.NET Core
+- Automated testing
 
----
+## Background
 
-### 🌐 Socials
+- Academic experience with programming, databases, web development, agile methods, IoT and machine learning
+- IT support internship at Ekornes involving user support, troubleshooting and PC preparation
+- Based in Møre og Romsdal, Norway
+- Open to relevant opportunities in Møre og Romsdal and Trondheim
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/tinus-flemmen-aurdal-8a4084243">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tinus.flemmen@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://tryhackme.com/p/Tinusflemmen">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-</p>
+## Contact
 
----
-
-### 💻 Tech stack (basics)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
-
----
-
-### 📚 Currently learning
-
-- Deeper Python and scripting  
-- Web dev fundamentals (HTML / CSS / JavaScript)  
-- SQL and data modelling  
-- Basic networking + intro security labs
-
----
-
-### 🛠 Projects (coming up)
-
-I'll use this GitHub to collect:
-
-- University exercises  
-- Small scripts and experiments  
-- Code from labs and courses
-
----
-
-### 📈 GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tinusflemmen&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/tinus-flemmen-aurdal/)
